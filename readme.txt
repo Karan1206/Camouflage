@@ -1,4 +1,4 @@
 This is an online compiler
 Website Link : https://camouflagecompiler0.herokuapp.com/
 
-![](https://raw.githubusercontent.com/Karan1206/Camouflage/main/compiler.gif)
+<img src="https://raw.githubusercontent.com/Karan1206/Camouflage/main/compiler.gif" alt="Compile" width="500" height="600">
